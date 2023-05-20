@@ -1,4 +1,5 @@
 <?php
+// Tested for WordPress 6.2.2 (20 May 2023)
 function disable_rss_feeds() {
     if (is_feed()) {
         header('HTTP/1.1 404 Not Found');
