@@ -29,8 +29,16 @@ Please note that disabling RSS feeds will make your content unavailable to any s
 1. Download the `functions.php` file in this repository.
 2. Add the contents of this file to your WordPress theme's `functions.php` file. Make sure to add it within the PHP tags.
 
-## Support
-If you encounter any issues or have any questions, feel free to open an issue on this repository.
+
+## Supporting The Project
+If you find this project beneficial and appreciate its contributions, you might consider offering your support. One of the ways you can do this is through a Bitcoin donation!
+
+Here is the Bitcoin address:
+`bc1q3pc0ftvdew3e87k07d00k8tqj7ll924hgy69n6`
+
+By donating Bitcoin, you are not only providing tangible assistance, but also endorsing the use of decentralized digital currencies. This encourages further innovation and freedom in the financial sector, aligning with the open source principles that guide this project.
+
+Every donation, big or small, is deeply appreciated and will be used to further improve and maintain this project. Your support helps dedicate more time and resources, ensuring the project's continuity and enhancement!
 
 ## Author
 
